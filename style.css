@@ -93,7 +93,7 @@ body {
 	.navigacija .main-menu li {
 		border-top: 1px solid black;
 		display: block;
-		background-color: #F1C40F;
+		background-color: #b51172;
 	}
 	.navigacija {
 		height: auto;
@@ -311,10 +311,10 @@ body {
 }
 @media screen and (max-width:767px) {
 	.vjestina:nth-child(odd) {
-		background-color: #F0F0F0;
+		background-color: #dd2f8d;
 	}
 	.vjestina:nth-child(even) {
-		background-color: #E0E0E0;
+		background-color: #b7136c;
 	}
 	.o-meni p:nth-child(1) {
 		margin-top: 40px;
@@ -392,10 +392,10 @@ body {
 }
 @media screen and (max-width:767px) {
 	.social-profile:nth-child(odd) {
-		background-color: #F0F0F0;
+		background-color: #dd2f8d;
 	}
 	.social-profile:nth-child(even) {
-		background-color: #E0E0E0;
+		background-color: #b7136c;
 	}
 }
 .social-profile p {
